@@ -1,6 +1,7 @@
 Snake game
 
 Basit bir yılan oyunu uygulaması 
+
 Kurulum
 
 1) Projeyi bilgisayarınıza klonlayın
